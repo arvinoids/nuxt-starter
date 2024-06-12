@@ -5,5 +5,8 @@ export default {
     extend: {},
   },
   plugins: [require('daisyui')],
+  daisyui: {
+    themes: ["bumblebee","dim"],
+    darkTheme: "dim",
+  },
 }
-

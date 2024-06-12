@@ -16,5 +16,8 @@
     "pocketbase": "^0.21.3",
     "vue": "^3.4.27",
     "vue-router": "^4.3.3"
+  },
+  "devDependencies": {
+    "nuxt-icon": "^0.6.10"
   }
 }
